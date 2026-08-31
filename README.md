@@ -5,7 +5,7 @@ self-hosted **chat.painelrp.app.br**. Escolha uma das opcoes abaixo.
 
 ## Opcao 1 - Instalador (recomendado)
 
-1. Baixe `ChatPainelRP-Setup-1.0.0.exe` na aba [Releases](../../releases).
+1. Baixe `Revolt-Setup-1.0.0.exe` na aba [Releases](../../releases).
 2. Rode o instalador e siga as etapas normalmente.
 3. O Windows pode mostrar um aviso do SmartScreen (app sem certificado de
    assinatura de codigo) - clique em "Mais informacoes" > "Executar assim
